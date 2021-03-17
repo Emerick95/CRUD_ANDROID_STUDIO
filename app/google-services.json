@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1046852110624",
+    "firebase_url": "https://appmovil-b13ff-default-rtdb.firebaseio.com",
+    "project_id": "appmovil-b13ff",
+    "storage_bucket": "appmovil-b13ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046852110624:android:85f660a62e7ffe684aaf45",
+        "android_client_info": {
+          "package_name": "com.example.dieta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046852110624-c13eoj4oev21b7p75ml20u81koto09l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dieta",
+            "certificate_hash": "ae88c87c9de62f399b31a3167d3025e7e154fb4b"
+          }
+        },
+        {
+          "client_id": "1046852110624-k1i41makq2rq3v294r6p1nbuo23sg7ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN7DDiFwI1qLQIlW7XCmiZ02ErpWOhABo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046852110624-k1i41makq2rq3v294r6p1nbuo23sg7ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
